@@ -1,6 +1,6 @@
 # RGB Color Game
 
-It's not only a great RGB Color Guessing Game but it's also a really nice tool for you to practice RGB colors because the RGB color system is a little bit unintuitive at first. It's very different than most color systems that people are used to working with.just making this project has helped me quite a bit to brush up on some of my RGB skills.
+It's not only a great RGB Color Guessing Game but it's also a really nice tool for you to practice RGB colors because the RGB color system is a little bit unintuitive at first. It's very different than most color systems that people are used to working with.Just making this project has helped me quite a bit to brush up on some of my RGB skills.
 <br>
 <b>How it works??</b>
 <br>
