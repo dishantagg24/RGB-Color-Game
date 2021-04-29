@@ -14,7 +14,7 @@ When you load up the page, you get six random colors.These are always different.
 
 Start by cloning the repo : 
 ```sh
-git clone https://github.com/dishantagg24basic-simon-game
+git clone https://github.com/dishantagg24/RGB-Color-Game
 ```
 Or Download and extract the zip file.
 ### Prerequisites
